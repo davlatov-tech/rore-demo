@@ -439,15 +439,4 @@ Parent ->
 ():input::type("text")
 ```
 
----
-
-# END OF SPECIFICATION
-
-Bu hujjat Rore DSL ning to‘liq, formal va minimal sintaksisga ega bo‘lgan versiyasi hisoblanadi. Kerak bo‘lsa men sizga:
-- EBNF grammatikasi
-- Parser dizayni
-- HTML transpiler
-- VSCode extension
-- Test suite
-ham yozib bera olaman.
 
